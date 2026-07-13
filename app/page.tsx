@@ -4,6 +4,7 @@ import { Marquee } from "@/components/marquee"
 import { About } from "@/components/about"
 import { Services } from "@/components/services"
 import { Portfolio } from "@/components/portfolio"
+import { Tools } from "@/components/tools"
 import { Testimonials } from "@/components/testimonials"
 import { Contact } from "@/components/contact"
 import { SiteFooter } from "@/components/site-footer"
@@ -17,6 +18,7 @@ export default function Page() {
       <About />
       <Services />
       <Portfolio />
+      <Tools />
       <Testimonials />
       <Contact />
       <SiteFooter />
